@@ -1,0 +1,14 @@
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\bin\Debug\netcoreapp3.1\NewCGPA.exe
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\bin\Debug\netcoreapp3.1\NewCGPA.deps.json
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\bin\Debug\netcoreapp3.1\NewCGPA.runtimeconfig.json
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\bin\Debug\netcoreapp3.1\NewCGPA.runtimeconfig.dev.json
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\bin\Debug\netcoreapp3.1\NewCGPA.dll
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\bin\Debug\netcoreapp3.1\NewCGPA.pdb
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.csproj.AssemblyReference.cache
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.AssemblyInfoInputs.cache
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.AssemblyInfo.cs
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.csproj.CoreCompileInputs.cache
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.dll
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.pdb
+C:\Users\Okwe.A\Desktop\NewCGPA\NewCGPA\obj\Debug\netcoreapp3.1\NewCGPA.genruntimeconfig.cache
